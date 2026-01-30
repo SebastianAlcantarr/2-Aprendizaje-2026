@@ -1,4 +1,4 @@
-# Evaluación de competencias 3¡2: Regresión lineal y logística
+# Evaluación de competencias 2: Regresión lineal y logística
 
 ---
 
